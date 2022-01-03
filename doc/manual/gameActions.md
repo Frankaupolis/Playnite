@@ -4,7 +4,7 @@ Game actions
 Introduction
 ---------------------
 
-Game actions can be use either to start a game or to launch additional executables not related to game startup, for example configuration/mod utilities. Only actions marked as "Play" action are used to start a game, others are available to launch via game menu. If more then one Play action is available, Playnite will show selection dialog on game's startup to specify which action to use to start a game.
+Game actions can be used either to start a game or to launch additional executables not related to game startup, for example configuration/mod utilities. Only actions marked as "Play" action are used to start a game, others are available to launch via game menu. If more then one Play action is available, Playnite will show selection dialog on game's startup to specify which action to use to start a game.
 
 `Include library integration play actions` specifies whether integration plugin that imported a specific game, will be asked to handle game startup when the game is being launched.
 
